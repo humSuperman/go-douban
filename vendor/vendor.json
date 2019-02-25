@@ -1,0 +1,127 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "SqzZEyKemFD9EfNUHMCvuKW8ZUs=",
+			"path": "github.com/Unknwon/com",
+			"revision": "41959bdd855fb7db467f78865d5f9044507df1cd",
+			"revisionTime": "2018-10-10T21:02:13Z"
+		},
+		{
+			"checksumSHA1": "yYFWixCNI+zOoEjuueaAoZj1Eco=",
+			"path": "github.com/astaxie/beego/validation",
+			"revision": "80aabdd372b36b65e6e56b200cfd4ebcb444e670",
+			"revisionTime": "2019-01-08T15:54:40Z"
+		},
+		{
+			"checksumSHA1": "q3w0WrlEQQS2rDFKOsA5xfNa54U=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8",
+			"revisionTime": "2018-09-21T17:23:15Z"
+		},
+		{
+			"checksumSHA1": "BhMowD2DIKSd9qq8Pzh7Y3mh2/w=",
+			"path": "github.com/gin-contrib/sse",
+			"revision": "22d885f9ecc78bf4ee5d72b937e4bbcdc58e8cae",
+			"revisionTime": "2017-01-09T09:34:21Z"
+		},
+		{
+			"checksumSHA1": "bu8SN4vFVk/pTT9nJNTSfs4ll6g=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "f38a3fe65f102dd765e097166e6a41f9e99777f6",
+			"revisionTime": "2019-01-20T10:27:04Z"
+		},
+		{
+			"checksumSHA1": "vxHwT2DEuXbnT7u6KIHF/BGNTCU=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "f38a3fe65f102dd765e097166e6a41f9e99777f6",
+			"revisionTime": "2019-01-20T10:27:04Z"
+		},
+		{
+			"checksumSHA1": "gEtlV34SWTL6eC3N9E5bT/4+FsY=",
+			"path": "github.com/gin-gonic/gin/internal/json",
+			"revision": "f38a3fe65f102dd765e097166e6a41f9e99777f6",
+			"revisionTime": "2019-01-20T10:27:04Z"
+		},
+		{
+			"checksumSHA1": "rRPUnuiXCTsK0+i4KBxqLjW/Bzg=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "f38a3fe65f102dd765e097166e6a41f9e99777f6",
+			"revisionTime": "2019-01-20T10:27:04Z"
+		},
+		{
+			"checksumSHA1": "aYjlj5hsCU6BuXV8nXkxgo7bXaY=",
+			"path": "github.com/go-ini/ini",
+			"revision": "6ed8d5f64cd79a498d1f3fab5880cc376ce41bbe",
+			"revisionTime": "2019-01-03T01:53:35Z"
+		},
+		{
+			"checksumSHA1": "mvlmQYBrNkf2uyAsxbExRyoCGzQ=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "c45f530f8e7fe40f4687eaa50d0c8c5f1b66f9e0",
+			"revisionTime": "2018-12-18T12:36:37Z"
+		},
+		{
+			"checksumSHA1": "Wp97rIwFg54dNwuCeR9Vslaehtw=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "347cf4a86c1cb8d262994d8ef5924d4576c5b331",
+			"revisionTime": "2019-01-09T07:22:47Z"
+		},
+		{
+			"checksumSHA1": "DDCfsVdrJ2mqjFgeCxypbqb68oQ=",
+			"path": "github.com/gomodule/redigo/redis",
+			"revision": "02dc2736dbc3a4a56907b0d5a9fead2f71b499db",
+			"revisionTime": "2018-12-13T21:05:01Z"
+		},
+		{
+			"checksumSHA1": "2OkokHmzQaiXm+H2p9KZ7WpPgCw=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "9f1a7f53511168c0567b4b4b4f10ab7d21265174",
+			"revisionTime": "2019-01-02T13:32:08Z"
+		},
+		{
+			"checksumSHA1": "w5/naAzcG0+g6aYx63/of1Wbgqw=",
+			"path": "github.com/jinzhu/gorm/dialects/mysql",
+			"revision": "9f1a7f53511168c0567b4b4b4f10ab7d21265174",
+			"revisionTime": "2019-01-02T13:32:08Z"
+		},
+		{
+			"checksumSHA1": "mfb/EusMwfajCPq0lwLWM/pvqI4=",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "04140366298a54a039076d798123ffa108fff46c",
+			"revisionTime": "2018-03-08T03:36:59Z"
+		},
+		{
+			"checksumSHA1": "LkbotKu3JQxXEZZ9P40yhnFOycY=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "3fb116b820352b7f0c281308a4d6250c22d94e27",
+			"revisionTime": "2018-08-30T10:17:45Z"
+		},
+		{
+			"checksumSHA1": "Co8o4cw9gGZpVUjZwNqmjJYXcqU=",
+			"path": "github.com/robfig/cron",
+			"revision": "b41be1df696709bb6395fe435af20370037c0b4c",
+			"revisionTime": "2018-05-05T20:34:41Z"
+		},
+		{
+			"checksumSHA1": "wZGvJfdhbzkKXwZTjneBk1+EOo4=",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "772ced7fd4c2f6322c07537a9a93b68d74551fa6",
+			"revisionTime": "2018-12-09T15:14:46Z"
+		},
+		{
+			"checksumSHA1": "q190bL03wQok3wVwYmMub2XhOiU=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f1438d3fca68893a817e4a66806cea46a9e4ebf",
+			"revisionTime": "2017-07-30T05:02:35Z"
+		},
+		{
+			"checksumSHA1": "oNqPrS2edE8peI3ah2INe379k8E=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "51d6538a90f86fe93ac480b35f37b2be17fef232",
+			"revisionTime": "2018-11-15T11:05:04Z"
+		}
+	],
+	"rootPath": "admin"
+}

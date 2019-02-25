@@ -1,0 +1,5 @@
+package douban
+
+func AddMovie(){
+
+}

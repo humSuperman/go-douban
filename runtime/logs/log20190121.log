@@ -1,0 +1,5 @@
+[INFO][auth.go:46]2019/01/21 16:10:37 [Username.Required Can not be empty]
+[INFO][models.go:60]2019/01/21 17:41:26 [create call back]
+[INFO][models.go:60]2019/01/21 17:42:10 [create call back]
+[INFO][models.go:61]2019/01/21 17:42:10 [false]
+[INFO][models.go:60]2019/01/21 17:42:52 [create call back]
